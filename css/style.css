@@ -23,14 +23,29 @@ h3 {
 	font-family: inherit ;
 }
 
+.cpr {	
+	width: 25px ;
+	height: auto ;
+	margin: auto ;
+	display: block;
 
-.cpr {
-	width: 30px;
+}
+
+.artts {
+	width: 100px;
 	height: auto;
 	display: block;
 	border-radius: 5px;
+	box-shadow: 5px 5px 0px #424242;
 }
 
 div	{
 	width: 100%;
+}
+.ig {
+
+	width: 75px;
+	height: auto;
+	border-radius: 10px;
+	box-shadow: 5px 5px 0px #424242;
 }
