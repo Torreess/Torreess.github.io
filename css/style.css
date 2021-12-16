@@ -1,0 +1,36 @@
+body{
+	color: white;
+	font-family: monospace;
+	font-size: px;
+}
+
+.ericx344{	
+	color: skyblue;
+	font-size: 50px;
+	font-family: cursive ;
+
+}
+
+.pr,h2 {
+	color: darkred;
+	font-size: 35px;
+	font-family: inherit ;
+}
+
+h3 {
+	color: yellowgreen;
+	font-size: 25px;
+	font-family: inherit ;
+}
+
+
+.cpr {
+	width: 30px;
+	height: auto;
+	display: block;
+	border-radius: 5px;
+}
+
+div	{
+	width: 100%;
+}
